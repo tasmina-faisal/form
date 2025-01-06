@@ -1,0 +1,59 @@
+.five{
+    background-color:rgb(134, 4, 181);
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+input{
+    
+}
+
+h1{
+    color:rgb(134, 4, 181);
+    text-decoration:underline;
+    text-align: center;
+}
+
+.two{
+    margin-left: 75px;
+}
+
+.three{
+    width: 25%;
+}
+
+.four{
+    margin-top: 20px;
+    color: aliceblue;
+    
+}
+
+/*  
+ .six{
+    margin-left: 5px;
+    
+}   */
+
+span{
+    color:aliceblue;
+}
+
+
+.seven{
+     margin-left: 5px;
+}
+  .eight{
+    margin-left: 25px;
+}  
+
+.nine{
+    margin-left: 35px;
+}
+
+.tenth{
+    margin-left: 25px;
+}
+.eleven{
+    margin-left: 40px;
+}
